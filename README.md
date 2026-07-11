@@ -1,3 +1,5 @@
+[![NO AI](https://raw.githubusercontent.com/<username>/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge#no-ai-badge)
+
 # FreeHop
 
 FreeHop is a modern, cross-platform WireGuard client built for self-hosters.
